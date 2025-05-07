@@ -1,5 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-
+#### Name : Sanjay Sivaramakrishnan
+#### Reg no : 212223240151
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
